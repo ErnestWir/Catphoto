@@ -1,0 +1,29 @@
+
+h2 {
+color:blue
+}
+
+.blue-text {
+    color:red;
+}
+
+p {
+font-size: 16px;
+font-family: Lobster, monospace;
+}
+.smaller-image {
+    width: 250px;
+    height: auto;
+}
+.thin-red-border {
+    border-color: red;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+}
+.silver-background {
+    background-color: silver;
+}
+#cat-photo-form {
+    background-color: green;
+}
